@@ -1,0 +1,6 @@
+{
+  "name": "ProVoice VN",
+  "description": "Ứng dụng chuyển đổi văn bản thành giọng nói tiếng Việt chuyên nghiệp, hỗ trợ đa dạng vùng miền (Bắc, Trung, Nam) và tích hợp công cụ chỉnh sửa âm thanh nâng cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
